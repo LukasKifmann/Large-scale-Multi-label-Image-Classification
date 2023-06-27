@@ -1,0 +1,4 @@
+from .BeitFeatureExtractor import BeitFeatureExtractor
+from .ImageFeatureExtractor import ImageFeatureExtractor
+from .ResNetFeatureExtractor import ResNetFeatureExtractor
+from .TorchProxyFeatureExtractor import TorchProxyFeatureExtractor

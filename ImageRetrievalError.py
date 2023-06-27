@@ -1,0 +1,2 @@
+class ImageRetrievalError(Exception):
+    pass

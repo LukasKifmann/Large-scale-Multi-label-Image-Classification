@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+transformers = "*"
+numpy = "*"
+torch = "*"
+pillow = "*"
+torch-geometric = "*"
+torch-sparse = "*"
+fasttext = "*"
+torch-scatter = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
